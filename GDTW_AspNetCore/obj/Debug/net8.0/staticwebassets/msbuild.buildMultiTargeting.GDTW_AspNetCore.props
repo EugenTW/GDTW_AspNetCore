@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GDTW_AspNetCore.props" />
+</Project>

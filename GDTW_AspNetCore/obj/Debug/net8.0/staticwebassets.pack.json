@@ -1,0 +1,541 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\about_us.html",
+      "PackagePath": "staticwebassets\\about_us.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\README.txt",
+      "PackagePath": "staticwebassets\\assets\\README.txt"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\image_share_customized.css",
+      "PackagePath": "staticwebassets\\assets\\css\\image_share_customized.css"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\image_view_customized.css",
+      "PackagePath": "staticwebassets\\assets\\css\\image_view_customized.css"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\images\\intro.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\intro.svg"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\index_customized.css",
+      "PackagePath": "staticwebassets\\assets\\css\\index_customized.css"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\noscript.css",
+      "PackagePath": "staticwebassets\\assets\\css\\noscript.css"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\short_url_customized.css",
+      "PackagePath": "staticwebassets\\assets\\css\\short_url_customized.css"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\short_url_redirection_customized.css",
+      "PackagePath": "staticwebassets\\assets\\css\\short_url_redirection_customized.css"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\show_statistics_customized.css",
+      "PackagePath": "staticwebassets\\assets\\css\\show_statistics_customized.css"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\css\\statements_customized.css",
+      "PackagePath": "staticwebassets\\assets\\css\\statements_customized.css"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\breakpoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\breakpoints.min.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\browser.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\browser.min.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\chart.umd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart.umd.min.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\filesaver_2.0.5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\filesaver_2.0.5.min.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\image_share.js",
+      "PackagePath": "staticwebassets\\assets\\js\\image_share.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\image_view.js",
+      "PackagePath": "staticwebassets\\assets\\js\\image_view.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\index_customized.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index_customized.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\jquery.scrollex.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollex.min.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\jquery.scrolly.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrolly.min.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\jszip_3.10.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jszip_3.10.1.min.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\qrcode.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\qrcode.min.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\short_url_redirection_script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\short_url_redirection_script.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\short_url_script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\short_url_script.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\show_statistics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\show_statistics.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\js\\util.js",
+      "PackagePath": "staticwebassets\\assets\\js\\util.js"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\base\\_page.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_page.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\base\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_reset.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_typography.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_actions.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_actions.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_box.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_box.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_button.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_button.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_contact.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_features.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_features.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_form.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_form.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_icon.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_icon.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_icons.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_image.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_list.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_menu.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_menu.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_row.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_row.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_section.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_section.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_split.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_split.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_spotlights.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_spotlights.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_table.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\components\\_wrapper.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_wrapper.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\layout\\_intro.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_intro.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\layout\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_sidebar.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\layout\\_wrapper.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_wrapper.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\libs\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_breakpoints.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\libs\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_functions.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\libs\\_html-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_html-grid.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\libs\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_mixins.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\libs\\_vars.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_vars.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\libs\\_vendor.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_vendor.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\sass\\noscript.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\noscript.scss"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\contact_us.html",
+      "PackagePath": "staticwebassets\\contact_us.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\error_403&405.html",
+      "PackagePath": "staticwebassets\\error_403&405.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\error_404.html",
+      "PackagePath": "staticwebassets\\error_404.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\error_410.html",
+      "PackagePath": "staticwebassets\\error_410.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\error_generic.html",
+      "PackagePath": "staticwebassets\\error_generic.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\image_share.html",
+      "PackagePath": "staticwebassets\\image_share.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\image_view.html",
+      "PackagePath": "staticwebassets\\image_view.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\about_us_p01.webp",
+      "PackagePath": "staticwebassets\\images\\about_us_p01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\about_us_p02.webp",
+      "PackagePath": "staticwebassets\\images\\about_us_p02.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\check.png",
+      "PackagePath": "staticwebassets\\images\\check.png"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\circle.png",
+      "PackagePath": "staticwebassets\\images\\circle.png"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\contact_us_p01.webp",
+      "PackagePath": "staticwebassets\\images\\contact_us_p01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\contact_us_p02.webp",
+      "PackagePath": "staticwebassets\\images\\contact_us_p02.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\delete.png",
+      "PackagePath": "staticwebassets\\images\\delete.png"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\error_403_405_pic01.webp",
+      "PackagePath": "staticwebassets\\images\\error_403_405_pic01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\error_404_pic01.webp",
+      "PackagePath": "staticwebassets\\images\\error_404_pic01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\error_410_pic01.webp",
+      "PackagePath": "staticwebassets\\images\\error_410_pic01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\image_share_pic01.webp",
+      "PackagePath": "staticwebassets\\images\\image_share_pic01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\image_view_pic01.webp",
+      "PackagePath": "staticwebassets\\images\\image_view_pic01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\index_pic00.webp",
+      "PackagePath": "staticwebassets\\images\\index_pic00.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\index_pic01.webp",
+      "PackagePath": "staticwebassets\\images\\index_pic01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\index_pic02.webp",
+      "PackagePath": "staticwebassets\\images\\index_pic02.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\index_pic03.webp",
+      "PackagePath": "staticwebassets\\images\\index_pic03.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\info.png",
+      "PackagePath": "staticwebassets\\images\\info.png"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\lightbulb.png",
+      "PackagePath": "staticwebassets\\images\\lightbulb.png"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\logo.webp",
+      "PackagePath": "staticwebassets\\images\\logo.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\logo_m.webp",
+      "PackagePath": "staticwebassets\\images\\logo_m.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\logo_s.webp",
+      "PackagePath": "staticwebassets\\images\\logo_s.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\pic_not_found.webp",
+      "PackagePath": "staticwebassets\\images\\pic_not_found.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\safebrowsing-logo.svg",
+      "PackagePath": "staticwebassets\\images\\safebrowsing-logo.svg"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\server_error_pic01.webp",
+      "PackagePath": "staticwebassets\\images\\server_error_pic01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\share.png",
+      "PackagePath": "staticwebassets\\images\\share.png"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\short_url_pic01.webp",
+      "PackagePath": "staticwebassets\\images\\short_url_pic01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\short_url_redirection_pic01.webp",
+      "PackagePath": "staticwebassets\\images\\short_url_redirection_pic01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\show_statistics_pic01.webp",
+      "PackagePath": "staticwebassets\\images\\show_statistics_pic01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\terms_of_use_p01.webp",
+      "PackagePath": "staticwebassets\\images\\terms_of_use_p01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\terms_of_use_p02.webp",
+      "PackagePath": "staticwebassets\\images\\terms_of_use_p02.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\top.png",
+      "PackagePath": "staticwebassets\\images\\top.png"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\uploading01.webp",
+      "PackagePath": "staticwebassets\\images\\uploading01.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\uploading02.webp",
+      "PackagePath": "staticwebassets\\images\\uploading02.webp"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\warn.png",
+      "PackagePath": "staticwebassets\\images\\warn.png"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\images\\warning.png",
+      "PackagePath": "staticwebassets\\images\\warning.png"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\short_url.html",
+      "PackagePath": "staticwebassets\\short_url.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\short_url_redirection.html",
+      "PackagePath": "staticwebassets\\short_url_redirection.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\show_statistics.html",
+      "PackagePath": "staticwebassets\\show_statistics.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\temp\\elements.html",
+      "PackagePath": "staticwebassets\\temp\\elements.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\temp\\generic.html",
+      "PackagePath": "staticwebassets\\temp\\generic.html"
+    },
+    {
+      "Id": "H:\\JetBrains\\Rider\\GDTW_AspNetCore\\GDTW_AspNetCore\\wwwroot\\terms_of_service.html",
+      "PackagePath": "staticwebassets\\terms_of_service.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GDTW_AspNetCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GDTW_AspNetCore.props",
+      "PackagePath": "build\\GDTW_AspNetCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GDTW_AspNetCore.props",
+      "PackagePath": "buildMultiTargeting\\GDTW_AspNetCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GDTW_AspNetCore.props",
+      "PackagePath": "buildTransitive\\GDTW_AspNetCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
