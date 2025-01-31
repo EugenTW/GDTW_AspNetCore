@@ -18,6 +18,13 @@ public class General_Controller : Controller
         return PhysicalFile(filePath, "text/html");
     }
     
+    [HttpGet("about_us")]
+    public IActionResult AboutUs()
+    {
+        var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "/about_us.html");
+        return PhysicalFile(filePath, "text/html");
+    }
+    
     
     
     
