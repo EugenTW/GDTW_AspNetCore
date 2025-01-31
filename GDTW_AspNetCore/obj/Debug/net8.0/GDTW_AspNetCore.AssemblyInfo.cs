@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GDTW_AspNetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c4d73452cea0dcf3923590ee94cbe1715e05236")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0570c05f8ea6b9c4a3265bc209a58fefaa37c8c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GDTW_AspNetCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GDTW_AspNetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

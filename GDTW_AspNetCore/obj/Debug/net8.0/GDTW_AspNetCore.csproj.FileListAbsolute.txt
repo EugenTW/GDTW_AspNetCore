@@ -32,3 +32,4 @@ H:\JetBrains\Rider\GDTW_AspNetCore\GDTW_AspNetCore\obj\Debug\net8.0\refint\GDTW_
 H:\JetBrains\Rider\GDTW_AspNetCore\GDTW_AspNetCore\obj\Debug\net8.0\GDTW_AspNetCore.pdb
 H:\JetBrains\Rider\GDTW_AspNetCore\GDTW_AspNetCore\obj\Debug\net8.0\GDTW_AspNetCore.genruntimeconfig.cache
 H:\JetBrains\Rider\GDTW_AspNetCore\GDTW_AspNetCore\obj\Debug\net8.0\ref\GDTW_AspNetCore.dll
+H:\JetBrains\Rider\GDTW_AspNetCore\GDTW_AspNetCore\obj\Debug\net8.0\GDTW_AspNetCore.sourcelink.json

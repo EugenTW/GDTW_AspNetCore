@@ -1,4 +1,9 @@
+using GDTW_AspNetCore.Features.General;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddSingleton<SitemapService>();
+builder.Services.AddHostedService<SitemapHostedService>();
 
 builder.Services.AddControllers();
 
