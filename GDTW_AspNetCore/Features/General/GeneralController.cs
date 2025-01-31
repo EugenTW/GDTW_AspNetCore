@@ -2,7 +2,7 @@
 
 namespace GDTW_AspNetCore.Features.General;
 
-public class General_Controller : Controller
+public class GeneralController : Controller
 {
     [HttpGet("")]
     public IActionResult IndexRoot()
